@@ -1,0 +1,9 @@
+langchain
+chromadb
+boto3
+pandas
+awscli
+python-dotenv
+streamlit
+langchain_aws
+faiss-cpu
